@@ -1,0 +1,28 @@
+{
+  "name": "degiro-importer",
+  "version": "1.0.0",
+  "description": "Import exportable data from degiro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ansteh/degiro-importer.git"
+  },
+  "keywords": [
+    "degiro",
+    "import",
+    "csv"
+  ],
+  "author": "Andre Stehle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ansteh/degiro-importer/issues"
+  },
+  "homepage": "https://github.com/ansteh/degiro-importer#readme",
+  "dependencies": {
+    "csv-parse": "^3.1.2",
+    "lodash": "^4.17.11"
+  }
+}
