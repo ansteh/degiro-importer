@@ -1,6 +1,6 @@
 {
   "name": "degiro-importer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Import exportable data from degiro",
   "main": "index.js",
   "scripts": {
